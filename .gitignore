@@ -1,0 +1,9 @@
+# Soul - Memória de IA
+# Repositório para configuração e memória da IA
+
+*.mp3
+*.wav
+*.ogg
+__pycache__/
+*.pyc
+.pytest_cache/
