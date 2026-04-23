@@ -37,5 +37,18 @@
 - Foco em vagas remotas internacionais (Remote.co) e nacionais (Catho)
 - Férias programadas: 15/05/2026 a 29/05/2026
 
+## Estrutura do Vault (Expansão)
+O vault foi expandido com novas pastas para enriquecer o gráfico do Obsidian:
+
+### Novas Pastas
+- `seguranca/` - Segurança da Informação
+- `virtualizacao/` - Virtualização (VMware, Hyper-V, Docker)
+- `cloud/` - Cloud Computing (Azure, AWS, GCP)
+- `database/` - Banco de Dados (SQL, MySQL, PostgreSQL)
+- `scripts/` - Scripts (PowerShell, Python, Bash)
+- `automacao/` - Automação de TI
+- `linux/` - Linux (Kali, Ubuntu)
+- `redes/` - Redes de Computadores
+
 ---
 _Last updated: 2026-04-23_
