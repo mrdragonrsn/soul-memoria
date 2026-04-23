@@ -59,5 +59,5 @@ scores = cross_val_score(model, X, y, cv=5, scoring='accuracy')
 ```
 
 ## Referências
-[[avaliacao/metricas]]
+[[avaliacao/_metricas]]
 [[avaliacao/matriz_confusao]]

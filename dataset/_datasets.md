@@ -57,5 +57,5 @@ transform = transforms.Compose([
 ```
 
 ## Referências
-[[preprocessamento/index]]
-[[avaliacao/index]]
+[[preprocessamento/_preprocessamento]]
+[[avaliacao/_metricas]]
