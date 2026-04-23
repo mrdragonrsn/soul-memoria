@@ -178,6 +178,16 @@
   },
   "active": "ea56f4f6d469eccb",
   "lastOpenFiles": [
+    "microsoft365/onenote/_onenote.md",
+    "microsoft365/powerpoint/_powerpoint.md",
+    "microsoft365/excel/_excel.md",
+    "microsoft365/word/_word.md",
+    "microsoft365/_microsoft365.md",
+    "microsoft365/onenote",
+    "microsoft365/powerpoint",
+    "microsoft365/excel",
+    "microsoft365/word",
+    "microsoft365",
     "CONHE.md",
     "linux/_linux.md",
     "automacao/_automacao.md",
@@ -191,8 +201,6 @@
     "scripts",
     "database",
     "cloud",
-    "virtualizacao",
-    "seguranca",
     "config/Soul.md",
     "dataset/_datasets.md",
     "redes/neural/core/_core.md",
@@ -205,14 +213,6 @@
     "computer_vision/_cv.md",
     "nlp/_nlp.md",
     "algoritmos/_algoritmos.md",
-    "tensor/_tensores.md",
-    "gpu/_cuda.md",
-    "avaliacao/_metricas.md",
-    "recursos/_recursos.md",
-    "redes/neural/weights/Pesos.md",
-    "autoencoder/Autoencoder.md",
-    "recursos",
-    "nlp/llm",
-    "nlp/embedding"
+    "tensor/_tensores.md"
   ]
 }
