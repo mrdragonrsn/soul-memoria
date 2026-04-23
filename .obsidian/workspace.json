@@ -178,6 +178,7 @@
   },
   "active": "ea56f4f6d469eccb",
   "lastOpenFiles": [
+    "CONHE.md",
     "linux/_linux.md",
     "automacao/_automacao.md",
     "scripts/_scripts.md",
@@ -210,7 +211,6 @@
     "recursos/_recursos.md",
     "redes/neural/weights/Pesos.md",
     "autoencoder/Autoencoder.md",
-    "prompt_opencode.md",
     "recursos",
     "nlp/llm",
     "nlp/embedding"
