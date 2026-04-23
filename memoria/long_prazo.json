@@ -1,6 +1,50 @@
 {
-  "preferencias_usuario": {},
-  "historico_projetos": [],
-  "conhecimento_relevante": [],
-  "ultima_att": "2026-04-22"
+  "preferencias_usuario": {
+    "nome": "Ítalo Gabriel Barbosa Santana",
+    "idade": 21,
+    "localizacao": "Sertãozinho, São Paulo, Brasil",
+    "cargo": "Auxiliar/Administrador de TI",
+    "empresa": "TELOG Soluções em Logística",
+    "formacao": "3º ano - ETEC Administração",
+    "motocicleta": "Yamaha R15 (2026)",
+    "esportes": "Musculação PPL + Upper/Lower",
+    "estilo": "Dark Streetwear"
+  },
+  "historico_projetos": [
+    {
+      "nome": "Otimização de CV para vagas de IT",
+      "status": "em andamento",
+      "objetivo": "Passar em sistemas ATS"
+    },
+    {
+      "nome": "Certificações Google IT Support",
+      "status": "concluido",
+      "ano": "2025"
+    },
+    {
+      "nome": "Certificação Network Security",
+      "status": "concluido",
+      "ano": "2025"
+    },
+    {
+      "nome": "CS50 SQL",
+      "status": "concluido",
+      "ano": "2025"
+    }
+  ],
+  "conhecimento_relevante": [
+    "Infraestrutura de TI",
+    "Redes de Computadores",
+    "Virtualização VMware vSphere 6.5",
+    "Segurança Fortinet",
+    "Cloud Azure",
+    "Banco de Dados SQL"
+  ],
+  "eventos_proximos": [
+    {
+      "nome": "Férias-programadas",
+      "data": "15/05/2026 a 29/05/2026"
+    }
+  ],
+  "ultima_att": "2026-04-23"
 }
