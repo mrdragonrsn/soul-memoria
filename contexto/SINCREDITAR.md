@@ -1,5 +1,8 @@
 # Manual de Sincronização - Git
 
+## Regra Importante
+**NUNCA** criar arquivos `.txt`. Sempre usar extensão `.md` (Markdown).
+
 ## Regra Principal
 **SEMPRE** que atualizar qualquer arquivo de memória, sincronizar com Git.
 
@@ -17,6 +20,9 @@ git add .
 git commit -m "Atualização: [descrição breve]"
 git push
 ```
+
+## Regra Importante
+**NUNCA** criar arquivos `.txt`. Sempre usar extensão `.md` (Markdown).
 
 ## Fluxo Completo
 1. Ler estado atual: `git status`
