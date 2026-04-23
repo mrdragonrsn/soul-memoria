@@ -178,6 +178,7 @@
   },
   "active": "ea56f4f6d469eccb",
   "lastOpenFiles": [
+    "microsoft365/excel/machines_telog.xlsx",
     "microsoft365/onenote/_onenote.md",
     "microsoft365/powerpoint/_powerpoint.md",
     "microsoft365/excel/_excel.md",
@@ -212,7 +213,6 @@
     "reinforcement/_rl.md",
     "computer_vision/_cv.md",
     "nlp/_nlp.md",
-    "algoritmos/_algoritmos.md",
-    "tensor/_tensores.md"
+    "algoritmos/_algoritmos.md"
   ]
 }
