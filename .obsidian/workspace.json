@@ -11,10 +11,14 @@
             "id": "ea56f4f6d469eccb",
             "type": "leaf",
             "state": {
-              "type": "graph",
-              "state": {},
-              "icon": "lucide-git-fork",
-              "title": "Visualização em gráfico"
+              "type": "markdown",
+              "state": {
+                "file": "microsoft365/excel/_excel.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "_excel"
             }
           }
         ]
@@ -178,6 +182,8 @@
   },
   "active": "ea56f4f6d469eccb",
   "lastOpenFiles": [
+    "microsoft365/excel/network_scan.xlsx",
+    "microsoft365/excel/~$machines_telog.xlsx",
     "microsoft365/excel/machines_telog.xlsx",
     "microsoft365/onenote/_onenote.md",
     "microsoft365/powerpoint/_powerpoint.md",
@@ -200,8 +206,6 @@
     "linux",
     "automacao",
     "scripts",
-    "database",
-    "cloud",
     "config/Soul.md",
     "dataset/_datasets.md",
     "redes/neural/core/_core.md",
